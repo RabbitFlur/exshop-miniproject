@@ -7,4 +7,4 @@
 ![ERD](gambar/erd.png "Entity Relationship Diagram")
 
 ### Diagram
-![Architech diagram](gambar/Arhitech.png "Arhitech Diagram")
+![Architech diagram](gambar/Architech.png "Arhitech Diagram")
