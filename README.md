@@ -4,5 +4,7 @@
 3 . Token digunakan untuk melihat profile, create new product, show product by ID user
 
 ### ERD
+![ERD](gambar/erd.png "Entity Relationship Diagram")
 
 ### Diagram
+![Architech diagram](gambar/Arhitech.png "Arhitech Diagram")
